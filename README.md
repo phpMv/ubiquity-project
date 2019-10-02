@@ -14,7 +14,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `composer create-project phpmv/ubiquity-project %projectName%`
+* `composer create-project phpmv/ubiquity-project {projectName}`
 
 ## Running / Development
 
