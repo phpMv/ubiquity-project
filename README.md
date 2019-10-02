@@ -1,4 +1,4 @@
-# %projectName%
+# {projectName}
 
 This README outlines the details of collaborating on this Ubiquity application.
 A short introduction of this app could easily go here.
@@ -18,7 +18,7 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
-* in %projectName% folder
+* in **{projectName}** folder
 * `Ubiquity serve`
 * Visit your app at [http://127.0.0.1:8090](http://127.0.0.1:8090).
 
