@@ -42,7 +42,7 @@
 	"prefer-stable": true,
 	"scripts": {
 		"post-create-project-cmd": [
-			"@php vendor/phpmv/ubiquity-devtools/src/Ubiquity composer-create-project --ansi"
+			"@php vendor/phpmv/ubiquity-devtools/src/Ubiquity composer-create-project"
 		]
 	}
 }
