@@ -7,7 +7,7 @@ A short introduction of this app could easily go here.
 
 You will need the following things properly installed on your computer.
 
-* php ^7.1
+* php ^7.4
 * [Git](https://git-scm.com/)
 * [Composer](https://getcomposer.org)
 * [Ubiquity devtools](https://ubiquity.kobject.net/)
@@ -41,4 +41,4 @@ Specify what it takes to deploy your app.
 * [Guide](http://micro-framework.readthedocs.io/en/latest/?badge=latest)
 * [Doc API](https://api.kobject.net/ubiquity/)
 * [Twig documentation](https://twig.symfony.com)
-* [Semantic-UI](https://semantic-ui.com)
+* [Semantic-UI](https://fomantic-ui.com)

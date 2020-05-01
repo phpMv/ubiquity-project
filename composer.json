@@ -9,9 +9,9 @@
 		"orm"
 	],
 	"require" : {
-		"php" : ">7.0",
+		"php" : "^7.4",
 		"phpmv/ubiquity": "^2.3",
-		"twig\/twig": "^2.0"
+		"twig\/twig": "^3.0"
 	},
 	"license" : "Apache-2.0",
 	"authors" : [{
@@ -42,7 +42,8 @@
 	"prefer-stable": true,
 	"scripts": {
 		"post-create-project-cmd": [
-			"@php vendor/phpmv/ubiquity-devtools/src/Ubiquity composer-create-project"
+			"@php vendor/phpmv/ubiquity-devtools/src/Ubiquity composer-create-project",
+			"@php vendor/phpmv/ubiquity-devtools/src/Ubiquity init-cache"
 		]
 	}
 }
