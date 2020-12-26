@@ -31,7 +31,6 @@
 		}
 	},
 	"require-dev" : {
-		"mindplay/annotations": "^1.3",
 		"phpmv/ubiquity-devtools": "^1.2",
 		"phpmv/ubiquity-webtools": "^2.3",
 		"phpmv/ubiquity-codeception": "^1.0",
