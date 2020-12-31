@@ -32,10 +32,10 @@
 	},
 	"require-dev" : {
 		"phpmv/ubiquity-devtools": "^1.2",
-		"phpmv/ubiquity-webtools": "^2.3",
+		"phpmv/ubiquity-webtools": "^2.4",
 		"phpmv/ubiquity-codeception": "^1.0",
 		"phpmv/php-mv-ui": "^2.2",
-		"phpmv/ubiquity-dev": "^0.0",
+		"phpmv/ubiquity-dev": "^0.1",
 		"phpmv/ubiquity-commands": "^0.0"
 	},
 	"minimum-stability": "dev",
