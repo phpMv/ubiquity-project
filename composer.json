@@ -36,7 +36,8 @@
 		"phpmv/ubiquity-codeception": "^1.0",
 		"phpmv/php-mv-ui": "^2.2",
 		"phpmv/ubiquity-dev": "^0.1",
-		"phpmv/ubiquity-commands": "^0.0"
+		"phpmv/ubiquity-commands": "^0.0",
+		"phpmv/ubiquity-debug": "^0.0"		
 	},
 	"minimum-stability": "dev",
 	"prefer-stable": true,
